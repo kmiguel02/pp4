@@ -1,0 +1,42 @@
+body{
+	background-image: url(http://www.pillowfights.gr/wp-content/uploads/2017/01/paneraki832.jpg);
+	background-size:100%;
+	margin:auto;
+	font-size:16px;
+}
+table {
+	
+	border-collapse: collapse;
+	margin:auto;
+	
+}
+
+header, body, h1 {
+	display: block;
+	height: 100%;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	color:red;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+th, td {
+	border: 1px solid white;
+}
+th {
+	background-color: #778899	;
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+	vertical-align: middle;
+	margin:auto;
+}
+td{
+	color: #FFFFFF;
+	background-color:black;
+	height: 50px;
+	text-align:center;
+	margin:auto;
+}
